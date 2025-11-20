@@ -1,0 +1,2 @@
+# AI_ML_Internship_Task5_DecisionTree-RandomForest-HeartDisease-
+A comprehensive implementation and comparative analysis of 🌳 Decision Tree and 🌲 Random Forest classifiers applied to the Heart Disease Dataset. This project dives deep into tree model mechanics, explores overfitting mitigation (hyperparameter tuning), interprets vital 💡 Feature Importances, and ensures robust evaluation via 📊 Cross-Validation.
